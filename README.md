@@ -15,7 +15,7 @@
 sein94@gmail.com
 
 ## ✏blog
-[![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/)
+[![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/131)
 
  
 ## ⚡TeckStacks  
