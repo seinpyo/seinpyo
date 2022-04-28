@@ -22,10 +22,10 @@ sein94@gmail.com
 
 **⚙ Back-End** &nbsp;&nbsp; ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java) ![spring](https://img.shields.io/badge/Sring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![springboot](https://img.shields.io/badge/Sringboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
-**💻 font-end** &nbsp;&nbsp; ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+**💻 Font-End** &nbsp;&nbsp; ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 
   
-**🔗 DateBase** &nbsp;&nbsp; ![oracle](https://img.shields.io/badge/oracle-80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+**🔗 DateBase** &nbsp;&nbsp; ![oracle](https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   
 <br>
   
