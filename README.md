@@ -11,14 +11,14 @@
  
 <br>
 
-## ✉Contenct-me
+## ✉Contact Me
 sein94@gmail.com
 
-## blog
+## ✏blog
 [![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/)
 
  
-## TeckStacks  
+## ⚡TeckStacks  
 
 **⚙ Back-End** &nbsp;&nbsp; ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java) ![spring](https://img.shields.io/badge/Sring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![springboot](https://img.shields.io/badge/Sringboot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white) ![nodejs](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
 
