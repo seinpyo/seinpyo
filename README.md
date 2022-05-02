@@ -12,7 +12,7 @@
 <br>
 
 ## ✉Contact Me
-sein94@gmail.com
+sein9424@gmail.com
 
 ## ✏blog
 [![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/pages/main)
