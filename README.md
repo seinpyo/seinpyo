@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <br>
   
@@ -7,15 +7,24 @@
 <br>
   
 안녕하세요 백엔드 개발자로 성장하고 있는 표세인입니다! 
-뜨개질하고 그림 그리는 걸 좋아해요😊 
- 
+
 <br>
+
+## 🙋‍♀️About Me
+
+👋 다양한 직무 경험으로 적응력 만큼은 자신 있습니다
+  
+🏇 맡은 일은 끝까지 해냅니다 
+  
+🌌 반복되는 일상보다 새로운 일, 변화하는 일을 좋아합니다
+  
+🛫 배움에는 끝이 없다 ! 끊임 없이 배우기를 희망합니다
 
 ## ✉Contact Me
 sein9424@gmail.com
 
 ## ✏blog
-[![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/pages/main)
+[![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/)
 
  
 ## ⚡TeckStacks  
@@ -31,7 +40,7 @@ sein9424@gmail.com
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seinpyo)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>
+
 <!--
 **seinpyo/seinpyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
