@@ -15,6 +15,7 @@ sein9424@gmail.com
 
 ## ✏blog
 [![blog](https://img.shields.io/badge/Tistory-orange?style=for-the-badge&)](https://omp14.tistory.com/)
+[![notion](https://img.shields.io/badge/notion-orange?style=for-the-badge&)](https://sordid-boater-0c2.notion.site/39518d27db1145a5a323f1c0b9941d7f)
 
  
 ## ⚡TeckStacks  
