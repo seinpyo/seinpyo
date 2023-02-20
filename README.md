@@ -25,7 +25,7 @@ sein9424@gmail.com
 **💻 Font-End** &nbsp;&nbsp; ![Html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white)
 
   
-**🔗 DateBase** &nbsp;&nbsp; ![oracle](https://img.shields.io/badge/oracle-f80000?style=for-the-badge&logo=Oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+**🔗 DateBase** &nbsp;&nbsp; ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   
 <br>
   
